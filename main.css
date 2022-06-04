@@ -118,7 +118,7 @@ header nav ul li a:hover {
 section {
   display: grid;
   grid-template-rows: repeat(6, 1fr);
-  height: 2500px;
+  height: 2400px;
   width: 1000px;
   row-gap: 10px;
 }
