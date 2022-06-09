@@ -115,7 +115,7 @@ header nav ul li a:hover {
 
 /* -------------------- Section Start -------------------- */
 
-section {
+.main-section {
   display: grid;
   grid-template-rows: repeat(6, 1fr);
   height: 2400px;
