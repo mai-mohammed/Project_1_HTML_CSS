@@ -407,6 +407,7 @@ header nav ul li a:hover {
   margin-bottom: 3rem;
 }
 
+
 .h2-container {
   display: flex;
   flex-direction: row;
@@ -414,7 +415,6 @@ header nav ul li a:hover {
   position: relative;
   font-size: 24px;
 }
-
 h2 {
   font-family: var(--h2-font);
   margin: 2rem;
@@ -576,9 +576,7 @@ h2 {
     width: 80%;
     height: 40%;
   }
-  .ED {
-    margin-bottom: 10rem;
-  }
+
 }
 /* -------------------- Why Start -------------------- */
 
